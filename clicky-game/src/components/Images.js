@@ -11,6 +11,8 @@ import tas from '../images/tas.png';
 import tweety from '../images/tweety.png';
 import wileE from '../images/wile-e.png';
 import yosemiteSam from '../images/yosemite-sam.png';
+// import '../css/reset.css';
+// import '../css/styles.css';
 
 function Images() {
   return (
